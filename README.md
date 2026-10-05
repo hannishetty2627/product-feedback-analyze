@@ -60,6 +60,10 @@ This project demonstrates how customer feedback can be transformed into actionab
 3. Run the cells from top to bottom.
 4. Upload a CSV file containing customer reviews when required.
 
+## Project Results
+
+![Product Feedback Analyzer Results](git.png)
+
 ## Author
 
-Hannishetty27
+Hannishetty2627
